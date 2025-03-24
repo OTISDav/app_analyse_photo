@@ -1,0 +1,2 @@
+C:/Users/OTIS/app/app_analyse_photo/android/app/.cxx/Debug/3v3u2z30/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/OTIS/app/app_analyse_photo/android/app/.cxx/Debug/3v3u2z30/armeabi-v7a/CMakeFiles/rebuild_cache.dir
